@@ -93,6 +93,8 @@ COMMAND we used in this repo
 
 
 HTML color site: https://www.computerhope.com/htmcolor.htm
+Make Mark Down text: https://www.makeareadme.com/
+
 git stash - saved current branch for later
 
 after stash current branch:
@@ -101,7 +103,7 @@ git stash pop - Restore saved changes.
 
 git branch -d <branch name here>  - to delete this branch
 
-
+git diff <first branch name>..<second branch name>  - Give a simple difference between these two branches.
 
 
 
