@@ -93,6 +93,13 @@ COMMAND we used in this repo
 
 
 HTML color site: https://www.computerhope.com/htmcolor.htm
+git stash - saved current branch for later
+
+after stash current branch:
+git status - Show that nothing to commit.
+git stash pop - Restore saved changes.
+
+git branch -d <branch name here>  - to delete this branch
 
 
 
