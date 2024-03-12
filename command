@@ -94,6 +94,8 @@ COMMAND we used in this repo
 
 HTML color site: https://www.computerhope.com/htmcolor.htm
 Make Mark Down text: https://www.makeareadme.com/
+Git cheat-sheet: https://www.git-tower.com/blog/git-cheat-sheet/
+Learn git branch: https://learngitbranching.js.org/?locale=en%2520US
 
 git stash - saved current branch for later
 
