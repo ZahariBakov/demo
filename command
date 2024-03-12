@@ -105,6 +105,9 @@ git branch -d <branch name here>  - to delete this branch
 
 git diff <first branch name>..<second branch name>  - Give a simple difference between these two branches.
 
+rm <enter file name here>  - This delete file.
+
+
 
 
 
